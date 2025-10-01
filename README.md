@@ -1,2 +1,2 @@
 # Repository
-Repository test
+I absolutely love CSE 101.
